@@ -198,7 +198,10 @@ HuertoPlus/
    - Estado de la bomba  
    - Modo actual
 
+---
+### 🧱 Pruebas 
 
+![Esquema del sistema](images/prueba_sistema.png)
 ---
 
 Incluye:
