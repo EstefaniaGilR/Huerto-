@@ -109,6 +109,9 @@ Cada 2 segundos se envía:
 6. Las lecturas también se envían por serial.
 
 ## 🏗️ Esquema General del Sistema
+###Esquema Conexión
+![Esquema del sistema](images/Esquema.png)
+
 ### 🧱 Diagrama de Bloques (Descriptivo)
 ```
 [Sensores] --> [Arduino UNO] --> [Relé] --> [Bombas]
