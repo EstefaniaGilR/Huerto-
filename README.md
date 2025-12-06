@@ -25,7 +25,6 @@ Desarrollar un huerto automático capaz de regular el riego y el pH del suelo, m
 
 ---
 
-
 ## ⚙️ Funciones principales
 
 ### ✔ Monitoreo de variables
@@ -143,18 +142,20 @@ HuertoPlus/
 │ ├── huerto_plus.ino   # Código principal
 │ └── pruebas_serial.md   
 │
-├── /schematics
+├── /schematics-function
 │ ├── proteus/
 │ ├── tinkercad/
 │ └── diagrama_flujo/
 │
 ├── /images
 │ ├── circuito_fisico.jpg
-│ ├── simulaciones.png
-│ └── sensores.jpg
+│ ├── Prototipo.jpg
+│ ├── prueba.jpg
+│ ├── sensorPH.jpg
+│ ├── SensorTierra.jpg
+│ └── sensor-de-temperatura-y-humedad-relativa-dht11.jpg
 │
-└── /manuales
-├── manual_tecnico.pdf
+└── /manual
 └── manual_usuario.pdf
 
 ```
