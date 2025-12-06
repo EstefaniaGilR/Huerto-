@@ -259,7 +259,7 @@ Uso académico. Se permite modificar y distribuir citando la fuente.
 
 ---
 
-##Prototipo
+## Prototipo
 ![Esquema del sistema](images/Prototipo.jpg)
 
 
