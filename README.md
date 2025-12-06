@@ -87,7 +87,6 @@ Cada 2 segundos se envía:
 | Encoder rotatorio             | Navegación e interacción         |
 | Sensor de humedad FC-28       | Lectura del suelo                |
 | Sensor de pH analógico        | Medición estimada                |
-| Sensor de oxígeno DO          | Detección de oxígeno             |
 | Sensor digital de temperatura | Lectura básica                   |
 | Bomba + relé                  | Activación de riego              |
 
@@ -129,12 +128,7 @@ HuertoPlus/
 
 ```
 ```
-
-    
 ---
-
-
-
 
 
 ## ▶ Cómo usar el sistema
