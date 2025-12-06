@@ -13,8 +13,6 @@ El sistema  evalúa continuamente las condiciones del cultivo y activa actuadore
 
 ---
 
----
-
 El sistema incorpora:
 
 - Microcontrolador **Arduino UNO**
@@ -138,12 +136,12 @@ Sensado → Control → Actuación → Monitoreo
 
 HuertoPlus/
 │
-├── README.md
-├── CHANGELOG.md
+├── README.md             # Descripción del proyecto, librerías y uso
+├── CHANGELOG.md          # Historial de cambios
 │
 ├── /code
-│ ├── huerto_plus.ino
-│ └── calibraciones/
+│ ├── huerto_plus.ino   # Código principal
+│ └── pruebas_serial.md   
 │
 ├── /schematics
 │ ├── proteus/
