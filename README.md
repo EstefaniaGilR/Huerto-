@@ -257,6 +257,10 @@ Facultad de Ingeniería Biomédica, Electrónica y Mecatrónica – 2025
 ## 📄 Licencia
 Uso académico. Se permite modificar y distribuir citando la fuente.
 
+---
+
+##Prototipo
+![Esquema del sistema](images/Prototipo.jpg)
 
 
 
