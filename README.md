@@ -109,22 +109,27 @@ Cada 2 segundos se envía:
 ```
 
 HuertoPlus/
+│
 ├── README.md
 ├── CHANGELOG.md
-├── code/
-│   └── huerto_plus.ino
-├── calibraciones/
-├── schematics/
-├── proteus/
-├── tinkercad/
-├── diagrama_flujo/
-├── images/
-│   ├── circuito_fisico.jpg
-│   ├── simulaciones.png
-│   └── sensores.jpg
-└── manuales/
-    ├── manual_tecnico.pdf
-    └── manual_usuario.pdf
+│
+├── /code
+│ ├── huerto_plus.ino
+│ └── calibraciones/
+│
+├── /schematics
+│ ├── proteus/
+│ ├── tinkercad/
+│ └── diagrama_flujo/
+│
+├── /images
+│ ├── circuito_fisico.jpg
+│ ├── simulaciones.png
+│ └── sensores.jpg
+│
+└── /manuales
+├── manual_tecnico.pdf
+└── manual_usuario.pdf
 
 ```
 ```
