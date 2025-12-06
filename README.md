@@ -229,6 +229,7 @@ Incluye:
 
 **Autonomía estimada:** 18–24 h sin radiación solar (dependiendo del uso de bombas).
 
+![Esquema del sistema](images/solar.png)
 ---
 
 ## 🧪 Pruebas y Validación
