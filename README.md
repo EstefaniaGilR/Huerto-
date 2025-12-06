@@ -234,7 +234,7 @@ Incluye:
 ---
 
 ## 📅 Estado del Proyecto
-**Versión actual:** v1.0  
+**Versión actual:** v8.0  
 Proyecto completado para fines académicos del curso Integrador I.
 
 ---
