@@ -1,6 +1,6 @@
 # Huerto+ : Sistema Automatizado de Riego y Control de Variables Ambientales
 
-Proyecto desarrollado para el curso **Integrador I: Diseño Electrónico**, cuyo propósito es implementar un sistema autónomo de monitoreo y control para cultivos agrícolas, optimizando el uso de agua, energía y fertilizantes mediante sensores, actuadores y alimentación solar.
+Proyecto desarrollado para el curso **Integrador I: Diseño Electrónico**, cuyo propósito es implementar un sistema autónomo de monitoreo y control para cultivos agrícolas, optimizando el uso de agua, energía y fertilizantes mediante sensores y actuadores.
 
 ---
 
