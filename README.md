@@ -106,7 +106,6 @@ Cada 2 segundos se envía:
 ## 📂 Estructura del repositorio
 
 ```
-```
 
 HuertoPlus/
 │
@@ -131,7 +130,6 @@ HuertoPlus/
 ├── manual_tecnico.pdf
 └── manual_usuario.pdf
 
-```
 ```
 ---
 
