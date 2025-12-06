@@ -26,7 +26,7 @@ Las pruebas permiten verificar el correcto funcionamiento de:
 
 ## 📡 Salida del Monitor Serial — Ejemplo real
 
-'''
+```
 === MACETA AUTOMÁTICA ===
 Humedad Tierra: 28% - SECO
 Nivel pH: 6.8 - ÁCIDO
@@ -34,8 +34,8 @@ Oxígeno: 85%
 Temperatura: 28.5°C
 Estado Bomba: REGANDO
 Modo: AUTOMÁTICO
-'''
-'''
+```
+```
 === MACETA AUTOMÁTICA ===
 Humedad Tierra: 45% - MEDIO SECO
 Nivel pH: 7.1 - ALCALINO
@@ -43,7 +43,7 @@ Oxígeno: 25%
 Temperatura: 22.0°C
 Estado Bomba: APAGADA
 Modo: AUTOMÁTICO
-'''
+```
 
 
 ---
